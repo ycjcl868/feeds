@@ -141,7 +141,7 @@ You can also download [index.opml](./index.opml) directly.
 | [LoRexxar's Blog](http://lorexxar.cn/)                         | http://lorexxar.cn/atom.xml                     | ![](https://img.shields.io/website?label=status&style=flat-square&url=http://lorexxar.cn/atom.xml)                     |
 | [1phan's blog](http://1phan.cc/)                               | http://1phan.cc/atom.xml                        | ![](https://img.shields.io/website?label=status&style=flat-square&url=http://1phan.cc/atom.xml)                        |
 | [Lcy's Blog](https://phpinfo.me/)                              | https://phpinfo.me/feed                         | ![](https://img.shields.io/website?label=status&style=flat-square&url=https://phpinfo.me/feed)                         |
-# 跟着党走
+# Policy
 | Title                  | Feed                                   | Status                                                                                                        |
 |:-----------------------|:---------------------------------------|:--------------------------------------------------------------------------------------------------------------|
 | 中华人民共和国住房和城乡建设部 - 政策发布 | https://rsshub.app/gov/mohurd/policy   | ![](https://img.shields.io/website?label=status&style=flat-square&url=https://rsshub.app/gov/mohurd/policy)   |

@@ -25,7 +25,6 @@
             <outline type="rss" text="Linghao’s Blog" title="Linghao’s Blog" xmlUrl="https://linghao.io/feed.xml" htmlUrl="https://linghao.io"></outline>
             <outline type="rss" text="Hux Blog" title="Hux Blog" xmlUrl="http://huangxuan.me/feed" description="关于程序与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。" htmlUrl="https://huangxuan.me/"></outline>
             <outline type="rss" text="戴铭的博客 - 星光社" title="戴铭的博客 - 星光社" xmlUrl="https://ming1016.github.io/atom.xml" description="No description"></outline>
-            <outline type="rss" text="Randy's Blog" title="Randy's Blog" xmlUrl="aHR0cHM6Ly9sdXRhb25hbi5jb20vcnNzLnhtbA==" description="No description"></outline>
             <outline type="rss" text="Uber Engineering Blog" title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" description="Software engineering and technologies that set the world in motion" htmlUrl="https://eng.uber.com"></outline>
             <outline type="rss" text="Ray Eldath's Blog" title="Ray Eldath's Blog" xmlUrl="https://ray-eldath.me/atom.xml" htmlUrl="https://ray-eldath.me/"></outline>
             <outline type="rss" text="Node.js on Medium" title="Node.js on Medium" xmlUrl="https://nodejs.medium.com/feed" description="Stories by Node.js on Medium" htmlUrl="https://medium.com/@nodejs?source=rss-96cd9a1fb56------2"></outline>
@@ -145,7 +144,7 @@
             <outline type="rss" text="1phan's blog" title="1phan's blog" xmlUrl="http://1phan.cc/atom.xml" htmlUrl="http://1phan.net/"></outline>
             <outline type="rss" text="Lcy's Blog" title="Lcy's Blog" xmlUrl="https://phpinfo.me/feed" htmlUrl="https://phpinfo.me/"></outline>
         </outline>
-        <outline text="跟着党走">
+        <outline text="Policy">
             <outline type="rss" text="中华人民共和国住房和城乡建设部 - 政策发布" title="中华人民共和国住房和城乡建设部 - 政策发布" xmlUrl="https://rsshub.app/gov/mohurd/policy" htmlUrl="http://www.mohurd.gov.cn/wjfb/index.html"></outline>
             <outline type="rss" text="经济观察网" title="经济观察网" xmlUrl="https://rsshub.app/eeo/15" htmlUrl="http://www.eeo.com.cn"></outline>
             <outline type="rss" text="最新文件 - 中国政府网" title="最新文件 - 中国政府网" xmlUrl="https://rsshub.app/gov/zhengce/wenjian" htmlUrl="http://sousuo.gov.cn/list.htm"></outline>

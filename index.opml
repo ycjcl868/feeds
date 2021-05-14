@@ -14,7 +14,6 @@
             <outline type="rss" text="English (US)" title="English (US)" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" description="Information from Twitter's engineering team about our tools, technology and services." htmlUrl="https://blog.twitter.com/engineering/en_us.html"></outline>
             <outline type="rss" text="GoCN社区" title="GoCN社区" xmlUrl="https://gocn.vip/topics/feed" description="GoCN社区社区最新发帖." htmlUrl="https://gocn.vip/"></outline>
             <outline type="rss" text="庭说" title="庭说" xmlUrl="https://tingtalk.me/atom.xml" htmlUrl="https://tingtalk.me/"></outline>
-            <outline type="rss" text="利器" title="利器" xmlUrl="https://liqi.io/feed/" htmlUrl="https://liqi.io"></outline>
             <outline type="rss" text="DEV Community" title="DEV Community" xmlUrl="https://dev.to/feed/tag/node" description="A constructive and inclusive social network for software developers. With you every step of your journey." htmlUrl="https://dev.to"></outline>
             <outline type="rss" text="TIL | Stefan Judis Web Development" title="TIL | Stefan Judis Web Development" xmlUrl="https://www.stefanjudis.com/feeds/til.xml" description="No description"></outline>
             <outline type="rss" text="文章-图灵社区" title="文章-图灵社区" xmlUrl="https://node2.feed43.com/1353457752277126.xml" description="文章-图灵社区" htmlUrl="https://www.ituring.com.cn/article"></outline>
@@ -29,7 +28,6 @@
             <outline type="rss" text="Ray Eldath's Blog" title="Ray Eldath's Blog" xmlUrl="https://ray-eldath.me/atom.xml" htmlUrl="https://ray-eldath.me/"></outline>
             <outline type="rss" text="Node.js on Medium" title="Node.js on Medium" xmlUrl="https://nodejs.medium.com/feed" description="Stories by Node.js on Medium" htmlUrl="https://medium.com/@nodejs?source=rss-96cd9a1fb56------2"></outline>
             <outline type="rss" text="雨落" title="雨落" xmlUrl="https://rainylog.com/atom.xml" description="No description"></outline>
-            <outline type="rss" text="EGOIST様" title="EGOIST様" xmlUrl="https://egoist.moe/atom.xml" description="No description" htmlUrl="https://egoist.moe"></outline>
             <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" description="No description" htmlUrl="http://developers.googleblog.com/"></outline>
             <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"></outline>
             <outline type="rss" text="TinkOL" title="TinkOL" xmlUrl="https://www.tinkol.com/feed" description="好记性不如烂笔头!" htmlUrl="https://www.tinkol.com"></outline>
@@ -54,11 +52,11 @@
             <outline type="rss" text="Brad Frost" title="Brad Frost" xmlUrl="https://feeds.feedburner.com/brad-frosts-blog" htmlUrl="https://bradfrost.com"></outline>
             <outline type="rss" text="JavaScript Weekly" title="JavaScript Weekly" xmlUrl="https://javascriptweekly.com/rss" htmlUrl="https://javascriptweekly.com/"></outline>
             <outline type="rss" text="Johnson Lee" title="Johnson Lee" xmlUrl="https://johnsonlee.io/atom.xml" description="No description"></outline>
-            <outline type="rss" text="Taobao FED | 淘系前端团队" title="Taobao FED | 淘系前端团队" xmlUrl="https://fed.taobao.org/atom.xml?spm=taofed.homepage.article-section.8.3b465ac8X4xzRZ&amp;file=atom.xml" description="description" htmlUrl="https://fed.taobao.org"></outline>
             <outline type="rss" text="Hang Jiang" title="Hang Jiang" xmlUrl="https://nodejh.com/index.xml" description="Recent content on Hang Jiang" htmlUrl="https://nodejh.com/"></outline>
             <outline type="rss" text="zhonghua" title="zhonghua" xmlUrl="https://zhonghua.io/feed" htmlUrl="zhonghua.io/"></outline>
             <outline type="rss" text="dtysky|一个行者的轨迹" title="dtysky|一个行者的轨迹" xmlUrl="http://dtysky.moe/feeds/Life" htmlUrl="http://dtysky.moe"></outline>
             <outline type="rss" text="Blog on Netlify" title="Blog on Netlify" xmlUrl="https://www.netlify.com/blog/index.xml" description="Recent content in Blog on Netlify: All-in-one platform for automating modern web projects" htmlUrl="https://www.netlify.com/blog/"></outline>
+            <outline type="json" text="EGOIST様" title="EGOIST様" xmlUrl="https://egoist.moe/feed.json"></outline>
             <outline type="rss" text="YB" title="YB" xmlUrl="http://xiaoba.me/feed.xml" description=" 记录生活 " htmlUrl="https://xiaoba.me/"></outline>
             <outline type="rss" text="曜彤.手记" title="曜彤.手记" xmlUrl="https://yhspy.com/atom.xml" htmlUrl="https://www.yhspy.com/"></outline>
             <outline type="rss" text="NingG 个人博客" title="NingG 个人博客" xmlUrl="https://ningg.top/atom.xml" description="No description" htmlUrl="http://ningg.top"></outline>
@@ -92,6 +90,7 @@
             <outline type="rss" text="Pubs of ibigbug®" title="Pubs of ibigbug®" xmlUrl="https://ibigbug.online/feed.xml" description=" Creations by ibigbug® including software, technical articles, knowledge sharings etc. " htmlUrl="https://ibigbug.online/"></outline>
             <outline type="rss" text="Lobsters: javascript - Javascript programming nodejs - Node.js programming" title="Lobsters: javascript - Javascript programming nodejs - Node.js programming" xmlUrl="https://lobste.rs/t/javascript,nodejs.rss" htmlUrl="https://lobste.rs/"></outline>
             <outline type="rss" text="lishulong's blog" title="lishulong's blog" xmlUrl="https://blog.thinking.mobi/rss.xml" description="2019年过去了，我很怀念他" htmlUrl="https://127.0.0.1:8000"></outline>
+            <outline type="rss" text="Taobao FED | 淘系前端团队" title="Taobao FED | 淘系前端团队" xmlUrl="https://fed.taobao.org/atom.xml" description="description" htmlUrl="https://fed.taobao.org"></outline>
             <outline type="rss" text="The Go Programming Language Blog" title="The Go Programming Language Blog" xmlUrl="https://blog.golang.org/feed.atom" description="No description"></outline>
             <outline type="rss" text="undefined" title="undefined" xmlUrl="http://undefinedblog.com/atom.xml" htmlUrl="https://undefinedblog.com/"></outline>
             <outline type="rss" text="imhoff.blog — media and alcohol" title="imhoff.blog — media and alcohol" xmlUrl="https://node2.feed43.com/0030884762300488.xml" description="imhoff.blog — media and alcohol" htmlUrl="https://imhoff.blog/"></outline>

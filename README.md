@@ -2,7 +2,7 @@
 > High quality RSS feeds for web developers.
 
 You can also download [index.opml](./index.opml) directly.
-![image](https://user-images.githubusercontent.com/13595509/118288674-372c9800-b507-11eb-97d1-33bece26912a.png)
+![image](https://user-images.githubusercontent.com/13595509/118289469-f7b27b80-b507-11eb-968d-95bdc056eb5d.png)
 # Subscriptions
 | Title                                                               | Feed                                                                 | Status                                                                                                                                      |
 |:--------------------------------------------------------------------|:---------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------|

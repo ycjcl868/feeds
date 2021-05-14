@@ -27,7 +27,7 @@ def write_to_md(feeds_list, filename):
       "# Feeds\n"
       "> High quality RSS feeds for web developers.\n\n"
       "You can also download [index.opml](./index.opml) directly.\n"
-      "![image](https://user-images.githubusercontent.com/13595509/118288674-372c9800-b507-11eb-97d1-33bece26912a.png)\n"
+      "![image](https://user-images.githubusercontent.com/13595509/118289469-f7b27b80-b507-11eb-968d-95bdc056eb5d.png)\n"
     )
     f.write(head_str)
     for tag, feed_list in feeds_list.items():

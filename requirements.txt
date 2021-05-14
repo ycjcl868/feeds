@@ -1,0 +1,5 @@
+decorator==5.0.7
+listparser==0.18
+six==1.16.0
+tabulate==0.8.9
+validators==0.18.2

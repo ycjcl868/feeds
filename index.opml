@@ -13,11 +13,11 @@
             <outline type="rss" text="IT社区推荐资讯 - ITIndex.net" title="IT社区推荐资讯 - ITIndex.net" xmlUrl="http://itindex.net/feed.jsp" description="IT社区推荐资讯 - ITIndex.net" htmlUrl="http://itindex.net/"></outline>
             <outline type="rss" text="English (US)" title="English (US)" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" description="Information from Twitter's engineering team about our tools, technology and services." htmlUrl="https://blog.twitter.com/engineering/en_us.html"></outline>
             <outline type="rss" text="GoCN社区" title="GoCN社区" xmlUrl="https://gocn.vip/topics/feed" description="GoCN社区社区最新发帖." htmlUrl="https://gocn.vip/"></outline>
-            <outline type="rss" text="庭说" title="庭说" xmlUrl="https://tingtalk.me/atom.xml" htmlUrl="https://tingtalk.me/"></outline>
+            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" description="Links for the intellectually curious, ranked by readers." htmlUrl="https://news.ycombinator.com/"></outline>
             <outline type="rss" text="DEV Community" title="DEV Community" xmlUrl="https://dev.to/feed/tag/node" description="A constructive and inclusive social network for software developers. With you every step of your journey." htmlUrl="https://dev.to"></outline>
+            <outline type="rss" text="庭说" title="庭说" xmlUrl="https://tingtalk.me/atom.xml" htmlUrl="https://tingtalk.me/"></outline>
             <outline type="rss" text="TIL | Stefan Judis Web Development" title="TIL | Stefan Judis Web Development" xmlUrl="https://www.stefanjudis.com/feeds/til.xml" description="No description"></outline>
             <outline type="rss" text="文章-图灵社区" title="文章-图灵社区" xmlUrl="https://node2.feed43.com/1353457752277126.xml" description="文章-图灵社区" htmlUrl="https://www.ituring.com.cn/article"></outline>
-            <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss?spm=ata.13261165.0.0.47922553DTRWxU" description="Links for the intellectually curious, ranked by readers." htmlUrl="https://news.ycombinator.com/"></outline>
             <outline type="rss" text="AlgoCasts" title="AlgoCasts" xmlUrl="https://rsshub.app/algocasts" description="AlgoCasts 旨在用心做好每一个算法讲解视频。每个视频包含两个部分：题目的剖析讲解以及编码，力求在讲解清楚到位的基础上，尽可能地保持视频精简短小，让大家可以在碎片时间里进行学习，并收获这些算法题背后的思想与乐趣。 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)" htmlUrl="https://www.algocasts.com"></outline>
         </outline>
         <outline text="Develop">

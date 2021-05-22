@@ -1,8 +1,0 @@
-- repo: local
-  hooks:
-    - id: build
-      name: build
-      entry: ./main.py
-      language: python
-      files: ^README.md$
-      types: [text]

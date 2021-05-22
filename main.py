@@ -46,12 +46,15 @@ def write_to_md(feeds_list, filename):
     f.write(tail_str)
 
     recommend_str = (
-      "\n# Tools\n",
-      "- [Feed43 - Convert web pages into professionally looking RSS feeds.](https://node2.feed43.com/)\n",
-      "- [News Explorer - RSS, JSON, Atom and Twitter newsreader with iCloud](https://betamagic.nl/products/newsexplorer.html)"
+      "\n# Tools\n"
+      "- [Feed43 - Convert web pages into professionally looking RSS feeds.](https://node2.feed43.com/)\n"
+      "- [News Explorer - RSS, JSON, Atom and Twitter newsreader with iCloud](https://betamagic.nl/products/newsexplorer.html)\n"
     )
+    f.write(recommend_str)
 
-feeds_list = parse('./index.opml')
-md_str = write_to_md(feeds_list, './README.md')
+def main():
+  feeds_list = parse('./index.opml')
+  write_to_md(feeds_list, './README.md')
 
-
+if __name__ == '__main__':
+  main()

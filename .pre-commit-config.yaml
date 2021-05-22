@@ -1,0 +1,8 @@
+- repo: local
+  hooks:
+    - id: build
+      name: build
+      entry: ./main.py
+      language: python
+      files: \.x$
+      types: [text]

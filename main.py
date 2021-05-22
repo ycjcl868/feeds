@@ -36,14 +36,20 @@ def write_to_md(feeds_list, filename):
         f.write("\n")
 
     tail_str = (
-      "# Development\n"
+      "\n# Development\n"
       "Convert the opml file into markdown\n\n"
       "```bash\n"
       "$ pip install -r requirements.txt\n"
-      "$ python __init__.py\n"
+      "$ python main.py\n"
       "```\n"
     )
     f.write(tail_str)
+
+    recommend_str = (
+      "\n# Tools\n",
+      "- [Feed43 - Convert web pages into professionally looking RSS feeds.](https://node2.feed43.com/)\n",
+      "- [News Explorer - RSS, JSON, Atom and Twitter newsreader with iCloud](https://betamagic.nl/products/newsexplorer.html)"
+    )
 
 feeds_list = parse('./index.opml')
 md_str = write_to_md(feeds_list, './README.md')

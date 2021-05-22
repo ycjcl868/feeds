@@ -4,5 +4,5 @@
       name: build
       entry: ./main.py
       language: python
-      files: \.x$
+      files: ^README.md$
       types: [text]
